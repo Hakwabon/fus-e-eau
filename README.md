@@ -5,6 +5,9 @@ afin de calculer la force creee par l ejection d'eau et de gaz
 pour ensuite calculer l altitude atteinte pour une fusee usant de ce systeme de propulsion 
 en prenant en compte les frottement fluide quadratique 
 
+![image](https://user-images.githubusercontent.com/94200263/170888357-9dbbf081-f786-455d-949a-1748107b7cf8.png)
+
+
 bibliographie:  
 https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Bernoulli   
 https://fr.wikipedia.org/wiki/Frottement_fluide   
